@@ -1,0 +1,15 @@
+ModificationType: Mod
+Name: C&C Red Alert Redux
+Version: 1.0
+SimpleDownloadLink: https://onedrive.live.com/embed?resid=8788D1B668C9AF2A%21946&authkey=!AJaD3V318YR8Zn4
+UIImageSourceLink: https://media.moddb.com/images/members/1/236/235607/rareduxongenlauncher.png
+DiscordLink: https://discord.com/invite/FjFhmCQRx9
+ModDBLink: https://www.moddb.com/mods/command-conquer-red-alert-redux
+NewsLink: https://discord.com/channels/949747037438627861/1016257606374924369
+DependenceName: ''
+S3HostLink: gen.insave.ovh:9000
+S3BucketName: tbredux
+S3FolderName: raredux
+S3HostPublicKey: ''
+S3HostSecretKey: ''
+NetworkInfo: https://www.moddb.com/mods/command-conquer-red-alert-redux/tutorials/online-gameplay-for-cc-tiberian-dawnred-alert-redux
