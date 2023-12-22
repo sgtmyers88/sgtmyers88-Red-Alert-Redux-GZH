@@ -1,6 +1,6 @@
 ModificationType: Mod
 Name: C&C Red Alert Redux
-Version: 1.02 GenLauncherFix 2
+Version: 1.02 GenLauncherFix 3
 SimpleDownloadLink: https://onedrive.live.com/embed?resid=8788D1B668C9AF2A%21946&authkey=!AJaD3V318YR8Zn4
 UIImageSourceLink: https://media.moddb.com/images/members/1/236/235607/genlauncherbanner.3.png
 DiscordLink: https://discord.com/invite/FjFhmCQRx9
@@ -18,7 +18,7 @@ ColorsInformation:
   GenLauncherBorderColor: '#b22626'
   GenLauncherInactiveBorder: '#797878'
   GenLauncherInactiveBorder2: '#573b3b'
-  GenLauncherActiveColor: '#b22626'
+  GenLauncherActiveColor: '#f2ef01'
   GenLauncherDarkFillColor: '#860f0f'
   GenLauncherDarkBackGround: '#000000'
   GenLauncherLightBackGround: '#000000'
