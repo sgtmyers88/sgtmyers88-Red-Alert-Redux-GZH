@@ -13,3 +13,19 @@ S3FolderName: raredux
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: https://www.moddb.com/mods/command-conquer-red-alert-redux/tutorials/online-gameplay-for-cc-tiberian-dawnred-alert-redux
+Deprecated: false
+ColorsInformation:
+GenLauncherBorderColor: '#b22626'
+GenLauncherInactiveBorder: '#797878'
+GenLauncherInactiveBorder2: '#573b3b'
+GenLauncherActiveColor: '#b22626'
+GenLauncherDarkFillColor: '#860f0f'
+GenLauncherDarkBackGround: '#000000'
+GenLauncherLightBackGround: '#000000'
+GenLauncherDefaultTextColor: White
+GenLauncherDownloadTextColor: White
+GenLauncherListBoxSelectionColor2: '#e41e25'
+GenLauncherListBoxSelectionColor1: '#ed1c24'
+GenLauncherButtonSelectionColor: '#ed1c24'
+GenLauncherBackgroundImageLink:
+SupportLink: https://www.paypal.com/paypalme/JMyers1988
