@@ -1,6 +1,6 @@
 ModificationType: Addon
 Name: Red Alert Classic Skin Mod
-Version: 1.12 GenLauncherFix 6
+Version: 1.13
 SimpleDownloadLink: https://gen.insave.ovh/tbredux/RedAlertRedux_ClassicSkins.zip
 UIImageSourceLink: ''
 DiscordLink: ''
@@ -13,6 +13,7 @@ S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
 
 
 
