@@ -1,6 +1,6 @@
 ModificationType: Addon
 Name: Realistic Camo House Color Mod
-Version: 1.08
+Version: 1.09
 SimpleDownloadLink: https://gen.insave.ovh/tbredux/TWColorMod.zip
 UIImageSourceLink: ''
 DiscordLink: ''
@@ -13,5 +13,6 @@ S3FolderName: ''
 S3HostPublicKey: ''
 S3HostSecretKey: ''
 NetworkInfo: ''
+
 
 
